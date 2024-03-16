@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I'm currently pursuing my PhD in the exciting field of computer vision research.
+I'm currently pursuing my PhD in the field of computer vision research.
 
 # 📖 Educations
 - *2023.09 - ????.??*, PhD, Huazhong University of Science and Technology. 

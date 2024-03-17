@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "zhuqiwen - homepage"
+title                    : "Qiwen Zhu"
 description              : "I'm currently pursuing my PhD in the field of computer vision."
 repository               : "ZhuKeven/ZhuKeven.github.io"
 google_scholar_stats_use_cdn : true

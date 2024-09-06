@@ -18,6 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I'm currently pursuing my PhD in the field of computer vision.
 
+# 📝 Publications 
+
+1. ACM MM 24: [Perceptual-Distortion Balanced Image Super-Resolution is a Multi-Objective Optimization Problem](https://arxiv.org/abs/2409.03179), **Qiwen Zhu**, Yanjie Wang, Shilv Cai, Liqun Chen, Jiahuan Zhou, Luxin Yan, Sheng Zhong, Xu Zou
+
 # 📖 Educations
 - *2023.09 - ????.??*, PhD, Huazhong University of Science and Technology. 
 - *2020.09 - 2023.06*, Master, University of Chinese Academy of Sciences. 
